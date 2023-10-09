@@ -1,0 +1,15 @@
+.footer {
+    
+}
+
+.footer__info {
+    float: none;
+    text-align: center;
+    margin: 30px;
+}
+
+.sale {
+    border-top: 1px solid black;
+    
+   
+}
